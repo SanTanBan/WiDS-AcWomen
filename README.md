@@ -12,3 +12,5 @@ Links to our Kaggle Submissions are provided below:
 4) Ensembled Model: https://www.kaggle.com/code/santanubanerjee9/ensembling-3boosts
 
 (These have been described in detail in our upcoming conference paper)
+
+The code of the bespoke deep learning model for each zipcode (did not perform well): https://www.kaggle.com/code/santanubanerjee9/acqwomen-wids-24
