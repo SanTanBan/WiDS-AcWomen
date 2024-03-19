@@ -13,4 +13,4 @@ Links to our Kaggle Submissions are provided below:
 
 (These have been described in detail in our upcoming conference paper)
 
-The code of the bespoke deep learning model for each zipcode (did not perform well): https://www.kaggle.com/code/santanubanerjee9/acqwomen-wids-24
+The code of the bespoke deep learning model for each zipcode (which did not perform well): https://www.kaggle.com/code/santanubanerjee9/acqwomen-wids-24
