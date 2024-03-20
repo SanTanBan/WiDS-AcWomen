@@ -13,7 +13,7 @@ Links to our Kaggle Submissions are provided below:
 
 (These have been described in detail in our upcoming conference paper)
 
-Here is the link to Khue's detailed repository: https://github.com/luumsk/wids2024
+Here is the link to [Khue](https://github.com/luumsk)'s detailed repository: https://github.com/luumsk/wids2024
 
 
 The code of the bespoke deep learning model for each zipcode (which did not perform well): https://www.kaggle.com/code/santanubanerjee9/acqwomen-wids-24
