@@ -12,7 +12,8 @@ Links to our Kaggle Submissions are provided below:
 3) LGBM Model: https://www.kaggle.com/code/santanubanerjee9/lgbm-aqwomen
 4) Ensembled Model: https://www.kaggle.com/code/santanubanerjee9/ensembling-3boosts
 
-(These have been described in detail in our upcoming conference paper)
+These have been described in detail in our conference paper: https://doi.org/10.1109/EDM61683.2024.10615210
+Our paper was awarded 3rd place in the "Health Informatics and Digital Humanities" category.
 
 Here is the link to [Khue](https://github.com/luumsk)'s detailed repository: https://github.com/luumsk/wids2024
 
