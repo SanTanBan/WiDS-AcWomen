@@ -12,9 +12,9 @@ Links to our Kaggle Submissions are provided below:
 3) LGBM Model: https://www.kaggle.com/code/santanubanerjee9/lgbm-aqwomen
 4) Ensembled Model: https://www.kaggle.com/code/santanubanerjee9/ensembling-3boosts
 
-## These have been described in detail in our conference paper: https://doi.org/10.1109/EDM61683.2024.10615210
+### These have been described in detail in our conference paper: https://doi.org/10.1109/EDM61683.2024.10615210
 
-### Our paper titled "Harnessing Ensemble Machine Learning Models for Timely Diagnosis of Breast Cancer Metastasis: A Case Study on CatBoost, XGBoost, and LGBM" was awarded 3rd place in the "Health Informatics and Digital Humanities" category: https://edm.ieeesiberia.org/result-2024/
+#### Our paper titled "Harnessing Ensemble Machine Learning Models for Timely Diagnosis of Breast Cancer Metastasis: A Case Study on CatBoost, XGBoost, and LGBM" was awarded 3rd place in the "Health Informatics and Digital Humanities" category: https://edm.ieeesiberia.org/result-2024/
 
 Here is the link to [Khue](https://github.com/luumsk)'s detailed repository: https://github.com/luumsk/wids2024
 
