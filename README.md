@@ -1,9 +1,9 @@
 The WiDS challenge link: https://www.kaggle.com/competitions/widsdatathon2024-challenge1/overview.
 
-We are team AcWomen (ranked 53 in the final Public Leaderboard, and ranked 222 in the final Private Leaderboard).
+We are team AcWomen (ranked 53 in the final Public Leaderboard. and ranked 222 in the final Private Leaderboard).
 
 This repository contains the files for replicating the radar graphs used to represent the varying hyperparameter values.
-The actual values of the hyperparameters as obtained from Optuna are used in the notebooks in this repository to develop the radar graphs for each model.
+The actual values of the hyperparameters, as obtained from Optuna, are used in the notebooks in this repository to develop the radar graphs for each model.
 The mappings and Min-Max scaling factors are also available within the notebooks.
 
 Links to our Kaggle Submissions are provided below:
@@ -13,7 +13,8 @@ Links to our Kaggle Submissions are provided below:
 4) Ensembled Model: https://www.kaggle.com/code/santanubanerjee9/ensembling-3boosts
 
 These have been described in detail in our conference paper: https://doi.org/10.1109/EDM61683.2024.10615210
-Our paper was awarded 3rd place in the "Health Informatics and Digital Humanities" category.
+
+Our paper titled "Harnessing Ensemble Machine Learning Models for Timely Diagnosis of Breast Cancer Metastasis: A Case Study on CatBoost, XGBoost, and LGBM" was awarded 3rd place in the "Health Informatics and Digital Humanities" category: https://edm.ieeesiberia.org/result-2024/
 
 Here is the link to [Khue](https://github.com/luumsk)'s detailed repository: https://github.com/luumsk/wids2024
 
